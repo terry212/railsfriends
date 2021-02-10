@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello my name is Terry Cetoute and I am building my first ruby on rails app. Wanted to learn this coding language to help buffer my knowledge and to have more flexibility with app building and programming.
 
-Things you may want to cover:
+This is my Ruby on Rails Friends List App! The app is CRUD based to learn the basic and essential tools of building a Ruby Application.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Follow me @terry212 on GITHUB !
